@@ -1,2 +1,2 @@
 # greasyfork
-my scripts uploaded on greasyfork so far.
+my scripts uploaded to greasyfork so far.
